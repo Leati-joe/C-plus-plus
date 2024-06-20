@@ -1,4 +1,4 @@
-#python code to evaluate leap years based on the number of attempts the user wants
+#python code to evaluate for leap years based on user number of attempts 
 #
 print("Number of trials to attempt: ")
 attempts = int(input())
